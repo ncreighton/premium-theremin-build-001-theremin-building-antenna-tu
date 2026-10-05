@@ -1,0 +1,2 @@
+# premium-theremin-build-001-theremin-building-antenna-tu
+Tired of building a theremin that sounds flat or glitchy? The antenna tuning is the hardest part, and most guides leave you guessing. You deserve that haunting, ethereal tone—not a frustrating mess of wires.  This Notion template is a complete workshop that turns antenna tuning from a technical chore into a deliberate craft. It solves the common pa
